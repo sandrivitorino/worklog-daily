@@ -1,4 +1,4 @@
-# Worklog Daily 🚀
+# Worklog Daily 🤖
 
 Projeto pessoal em desenvolvimento para registrar tarefas de desenvolvimento de forma automatizada.
 
